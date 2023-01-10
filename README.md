@@ -1,9 +1,9 @@
-![MasterHead](https://i.gifer.com/OSFi.gif)
+[![MasterHead](https://i.gifer.com/OSFi.gif)](https://HarshPanchal01.io)
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">And I'm a Java Enthusiast</h3>
 <img align="right" alt="Currently Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpanchal01&label=Profile%20views&color=0e75b6&style=flat" alt="harshpanchal01" /> </p>
+
 
 - 🔭 I’m currently working on **my portfolio website**
 
