@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **harshpanchal30x@gmail.com**
 
-- ⚡ Fun fact **I am a big Chelsea FC fan!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
