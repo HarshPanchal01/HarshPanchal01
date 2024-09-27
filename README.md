@@ -1,6 +1,6 @@
 <img alt="Currently Coding" width="1000" height = "500" src="https://cdn.dribbble.com/users/454765/screenshots/15300792/media/3b08d07aec10e929d9e3275b8d3e6f41.gif">
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">And I'm a 3rd Year CS Student</h3>
+<h3 align="center">And I'm a 4th Year CS Student</h3>
 <img align="right" alt="Currently Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
