@@ -1,24 +1,24 @@
 <img alt="Currently Coding" width="1000" height = "500" src="https://cdn.dribbble.com/users/454765/screenshots/15300792/media/3b08d07aec10e929d9e3275b8d3e6f41.gif">
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">And I'm a 4th Year CS Student</h3>
-<img align="right" alt="Currently Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
+<br><p align="center">
+  🔭 I'm currently working on <strong>my portfolio website</strong><br>
+  <br>
+  🌱 I'm currently learning <strong>Node.js and React.js</strong><br>
+  <br>
+  📫 How to reach me <strong>harshpanchalv@gmail.com</strong>
+</p><br>
 
-- 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **Node.js and React.js**
-
-- 📫 How to reach me **harshpanchalv@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/harshpanchal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="harshpanchal01" height="40" width="40" /></a>
 <a href="mailto:harshpanchalv@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
