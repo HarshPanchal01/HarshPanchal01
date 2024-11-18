@@ -3,13 +3,13 @@
 <h3 align="center">And I'm a 4th Year CS Student</h3>
 
 
-<br><p align="center">
+<p align="center">
   🔭 I'm currently working on <strong>my portfolio website</strong><br>
   <br>
   🌱 I'm currently learning <strong>Node.js and React.js</strong><br>
   <br>
   📫 How to reach me <strong>harshpanchalv@gmail.com</strong>
-</p><br>
+</p>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   </a>
