@@ -7,8 +7,6 @@
   🔭 I'm currently working on <strong>my portfolio website</strong><br>
   <br>
   🌱 I'm currently learning <strong>Node.js and React.js</strong><br>
-  <br>
-  📫 How to reach me <strong>harshpanchalv@gmail.com</strong>
 </p>
 
 
