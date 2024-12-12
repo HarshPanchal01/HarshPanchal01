@@ -4,9 +4,9 @@
 
 
 <p align="center">
-  🔭 I'm currently working on <strong>my portfolio website</strong><br>
+  🔭 I'm currently working on creating <strong>a LeetCode CLI</strong><br>
   <br>
-  🌱 I'm currently learning <strong>Node.js and React.js</strong><br>
+  🌱 I'm currently learning <strong>Node.js<br>
 </p>
 
 
