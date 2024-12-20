@@ -97,4 +97,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshPanchal01&show_icons=true&locale=en&theme=dark" alt="HarshPanchal01" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshPanchal01&theme=dark" alt="HarshPanchal01" /></p>
+<p align="center"><img align="center" src="https://git-hub-streak-stats.vercel.app?user=HarshPanchal01&theme=dark" alt="HarshPanchal01" /></p>
