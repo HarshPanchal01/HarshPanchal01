@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  🔭 I'm currently working on creating <strong>a LeetCode CLI</strong><br>
+  🔭 I'm currently working on creating <strong>a way to automate job searching</strong><br>
   <br>
   🌱 I'm currently learning <strong>Node.js<br>
 </p>
