@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  🔭 I'm currently working on creating <strong>a desktop all in one finance application using C# and .NET Framework</strong><br>
+  🔭 I'm currently working on creating <strong>a desktop all in one finance application using Electron and Vue</strong><br>
   <br>
   🌱 I'm currently learning <strong>Kubernetes<br>
 </p>
