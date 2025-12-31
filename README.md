@@ -1,21 +1,32 @@
 <div align="center">
-  <a href="https://harshpanchal.xyz/" target="_blank" rel="noopener"><img alt="Currently Coding" width="300" height="300" src="./assets/my_octocat.png"/></a>
+  <table>
+    <tr>
+      <td width="300">
+        <a href="https://harshpanchal.xyz/" target="_blank">
+          <img src="./assets/my_octocat.png" width="300" height="300" alt="Currently Coding"/>
+        </a>
+      </td>
+      <td>
+        <h1>Hi 👋, I'm Harsh</h1>
+        <h3>And I'm a 4th year CS student</h3>
+        <p>
+          🔭 I'm currently creating an all in one finance <strong>application using Electron and Vue for desktop</strong>!<br>
+          <br>
+          🌱 I'm currently learning <strong>Kubernetes</strong>!
+        </p>
+        <h3>Connect with me</h3>
+        <p>
+          <a href="https://linkedin.com/in/harshpanchal01" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="harshpanchal01" height="40" width="40" />
+          </a>
+          <a href="mailto:harshpanchalv@gmail.com" target="_blank">
+            <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">And I'm a 4th year CS student</h3>
-
-<p align="center">
-  🔭 I'm currently creating an all in one finance <strong>application using Electron and Vue for desktop</strong>!<br>
-  <br>
-  🌱 I'm currently learning <strong>Kubernetes</strong>!<br>
-</p>
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://linkedin.com/in/harshpanchal01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="harshpanchal01" height="40" width="40" /></a>
-<a href="mailto:harshpanchalv@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
-</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
