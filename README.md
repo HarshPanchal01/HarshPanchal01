@@ -1,5 +1,5 @@
 <div align="center">
-  <table width="900px">
+  <table width="800px">
     <tr>
       <td width="300" valign="center">
         <a href="https://harshpanchal.xyz/" target="_blank">
@@ -8,9 +8,9 @@
       </td>
       <td valign="center">
         <h1>Hi 👋, I'm Harsh</h1>
-        <h3>And I'm a 4th year CS student</h3>
+        <h3>I'm a 4th year CS student!</h3>
         <p>
-          🔭 I'm currently creating an all in one finance <strong>application using Electron and Vue for desktop</strong>!<br>
+          🔭 I'm currently <strong>using Electron and Vue for a desktop application</strong>!<br>
           <br>
           🌱 I'm currently learning <strong>Kubernetes</strong>!
         </p>
@@ -86,20 +86,10 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <a href="https://github.com/HarshPanchal01">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&show_icons=true&locale=en&theme=github_dark&hide_border=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&show_icons=true&locale=en&theme=default&hide_border=true" />
-            <img alt="GitHub stats" src="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&show_icons=true&locale=en&theme=default&hide_border=true" />
-          </picture>
-        </a>
-        <a href="https://github.com/HarshPanchal01">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&hide=html,css,cmake,jupyter%20notebook" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true&hide=html,css,cmake,jupyter%20notebook" />
-            <img alt="Top languages" src="https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true&hide=html,css,cmake,jupyter%20notebook" />
-          </picture>
-        </a>
+        <p>
+          <img alt="GitHub stats" src="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&show_icons=true&locale=en&theme=transparent&hide_border=true&line_height=28"/>
+          <img alt="Top languages" src="https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=donut&theme=transparent&hide_border=true&hide=html,css,cmake,jupyter%20notebook&card_width=200"/>
+        </p>
       </td>
     </tr>
   </table>
