@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://harshpanchal.xyz/" target="_blank" ><img alt="Currently Coding" width="100" height="100" src="./assets/my_octocat.png"/></a>
+  <a href="https://harshpanchal.xyz/" target="_blank" rel="noopener"><img alt="Currently Coding" width="300" height="300" src="./assets/my_octocat.png"/></a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
