@@ -14,19 +14,20 @@
           <br>
           🌱 I'm currently learning <strong>Kubernetes</strong>!
         </p>
-        <h3>Connect with me</h3>
-        <p>
-          <a href="https://linkedin.com/in/harshpanchal01" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="harshpanchal01" height="40" width="40" />
-          </a>
-          <a href="mailto:harshpanchalv@gmail.com" target="_blank">
-            <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" />
-          </a>
-        </p>
       </td>
     </tr>
   </table>
 </div>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/harshpanchal01" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="harshpanchal01" height="40" width="40" />
+  </a>
+  <a href="mailto:harshpanchalv@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" />
+  </a>
+</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -82,7 +83,6 @@
   <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/></a>
 </p>
 
-<!-- GitHub Stats (side-by-side + system theme) -->
 <table align="center">
   <tr>
     <td>
@@ -101,20 +101,3 @@
     </td>
   </tr>
 </table>
-
-<!--
-Stats styling examples (copy/paste):
-
-1) Border radius + transparent background
-   https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&border_radius=12
-
-2) Custom colors (works on the main stats card; also works on top-langs)
-   https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&show_icons=true&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D
-
-3) Compact language card
-   https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&layout=compact&theme=github_dark&hide_border=true
-
-Can I change the color assigned to each programming language?
-- Not directly via GitHub Readme Stats query params. The language colors come from GitHub Linguist.
-- You can change overall theme/colors (title/text/icon/background), but not per-language colors.
--->
