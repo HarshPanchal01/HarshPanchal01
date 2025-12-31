@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Currently Coding" width="200" height="200" src="./assets/my_octocat.png">
+  <img href="https://harshpanchal.xyz/" target="_blank" alt="Currently Coding" width="300" height="300" src="./assets/my_octocat.png">
 </div>
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
@@ -13,8 +13,8 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/harshpanchal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="harshpanchal01" height="40" width="40" /></a>
-<a href="mailto:harshpanchalv@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/harshpanchal01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="harshpanchal01" height="40" width="40" /></a>
+<a href="mailto:harshpanchalv@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages</h3>
