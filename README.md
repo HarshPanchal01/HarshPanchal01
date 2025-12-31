@@ -1,4 +1,7 @@
-<img alt="Currently Coding" width="400" height="400" align="center" src="./assets/my_octocat.png">
+<div align="center">
+  <img alt="Currently Coding" width="200" height="200" src="./assets/my_octocat.png">
+</div>
+
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">And I'm a 4th year CS student</h3>
 
