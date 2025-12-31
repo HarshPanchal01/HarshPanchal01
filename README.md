@@ -93,8 +93,6 @@
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats-harsh.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook,css,cmake,html" alt="HarshPanchal01" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook,css,cmake,html" alt="HarshPanchal01" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-harsh.vercel.app/api?username=HarshPanchal01&show_icons=true&locale=en&theme=dark" alt="HarshPanchal01" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats-harsh.vercel.app?user=HarshPanchal01&theme=dark" alt="HarshPanchal01" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&show_icons=true&locale=en&theme=dark" alt="HarshPanchal01" /></p>
