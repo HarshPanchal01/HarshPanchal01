@@ -87,8 +87,8 @@
     <tr>
       <td colspan="2" align="center">
         <p>
-          <img alt="GitHub stats" src="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&show_icons=true&locale=en&theme=transparent&hide_border=true&line_height=28"/>
-          <img alt="Top languages" src="https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=donut&theme=transparent&hide_border=true&hide=html,css,cmake,jupyter%20notebook&card_width=200"/>
+          <img alt="GitHub stats" src="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&show_icons=true&locale=en&hide_border=true&line_height=28&title_color=fb4848&icon_color=fb4848&bg_color=00000000"/>
+          <img alt="Top languages" src="https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=donut&hide_border=true&hide=html,css,cmake,jupyter%20notebook&card_width=200&title_color=fb4848&icon_color=fb4848&bg_color=00000000"/>
         </p>
       </td>
     </tr>
