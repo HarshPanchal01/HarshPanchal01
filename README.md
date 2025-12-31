@@ -1,4 +1,4 @@
-<img alt="Currently Coding" width="1000" height="400" align="center" src="https://cdn.dribbble.com/users/454765/screenshots/15300792/media/3b08d07aec10e929d9e3275b8d3e6f41.gif">
+<img alt="Currently Coding" width="400" height="400" align="center" src="./assets/my_octocat.png">
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">And I'm a 4th year CS student</h3>
 
