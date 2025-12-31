@@ -16,24 +16,13 @@
         </p>
         <h3>Connect with me</h3>
         <p>
-          <a href="https://linkedin.com/in/harshpanchal01" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="harshpanchal01" height="40" width="40" />
-          </a>
-          <a href="mailto:harshpanchalv@gmail.com" target="_blank">
-            <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" />
-          </a>
+          <a href="https://linkedin.com/in/harshpanchal01" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="harshpanchal01" height="40" width="40" /></a>
+          <a href="mailto:harshpanchalv@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
         </p>
       </td>
     </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <table width="900px">
     <tr>
-      <td align="center">
+      <td colspan="2" align="center">
         <h3>Languages</h3>
         <p>
           <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
@@ -53,7 +42,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td colspan="2" align="center">
         <h3>Frameworks & Platforms</h3>
         <p>
           <a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/android/android-original.svg" alt="android" width="40" height="40"/></a>
@@ -74,7 +63,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td colspan="2" align="center">
         <h3>Tools</h3>
         <p>
           <a href="https://www.ansible.com/products/tower" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible-tower" width="40" height="40"/></a>
@@ -95,15 +84,8 @@
         </p>
       </td>
     </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <table width="900px">
     <tr>
-      <td align="center">
+      <td colspan="2" align="center">
         <a href="https://github.com/HarshPanchal01">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&show_icons=true&locale=en&theme=github_dark&hide_border=true" />
@@ -111,8 +93,6 @@
             <img alt="GitHub stats" src="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&show_icons=true&locale=en&theme=default&hide_border=true" />
           </picture>
         </a>
-      </td>
-      <td align="center">
         <a href="https://github.com/HarshPanchal01">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&hide=html,css,cmake,jupyter%20notebook" />
