@@ -71,15 +71,15 @@
           <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
           <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
           <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40"/></a>
-          <a href="https://brew.sh/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/homebrew/homebrew-original.svg" alt="homebrew" width="40" height="40"/></a>
+          <!--<a href="https://brew.sh/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/homebrew/homebrew-original.svg" alt="homebrew" width="40" height="40"/></a>!-->
           <a href="https://jfrog.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" alt="jfrog" width="40" height="40"/></a>
           <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/></a>
           <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
           <a href="https://www.opentext.com/products/enterprise-performance-engineering" target="_blank"><img src="https://cdn.brandfetch.io/id-bI7sgHa/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="loadrunner" width="40" height="40"/></a>
-          <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/npm/npm-original.svg" alt="npm" width="40" height="40"/></a>
+          <!--<a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/npm/npm-original.svg" alt="npm" width="40" height="40"/></a>!-->
           <!--<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>!-->
           <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
-          <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
+          <!--<a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>!-->
         </p>
       </td>
     </tr>
