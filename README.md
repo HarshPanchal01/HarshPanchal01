@@ -32,7 +32,7 @@
           <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a>
           <!--<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>!-->
           <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-          <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>!-->
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
           <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
           <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
           <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/657/657897.png" alt="sql" width="40" height="40"/></a>
@@ -87,7 +87,7 @@
       <td colspan="2" align="center">
         <p>
           <img alt="GitHub stats" src="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&custom_title=GitHub+Stats&show_icons=true&locale=en&hide_border=true&line_height=28&theme=custom_red"/>
-          <img alt="Top languages" src="https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=donut&hide_border=true&hide=html,css,cmake,jupyter%20notebook&card_width=280&langs_count=5&theme=custom_red"/>
+          <img alt="Top languages" src="https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=donut&hide_border=true&hide=html,css,cmake,jupyter%20notebook&card_width=279.9&langs_count=5&theme=custom_red"/>
         </p>
       </td>
     </tr>
