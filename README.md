@@ -1,5 +1,6 @@
-<div style="font-family: 'Courier New', Courier, monospace;">
-  <p>4th year cs student. Aura coder.</p>
+<div>
+  
+  <p>4th year cs student. Full-stack (maybe?).</p>
 
   <p>
     <picture>
