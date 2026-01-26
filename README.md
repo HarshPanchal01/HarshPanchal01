@@ -1,7 +1,5 @@
+4th year cs student. <s>Vibe</s> Aura coding.
 <div>
-  
-  <p>4th year cs student. Full-stack (maybe?).</p>
-
   <p>
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&custom_title=GitHub+Stats&show_icons=true&locale=en&hide_border=false&theme=shadow_red">
