@@ -1,8 +1,5 @@
-<div align="center" style="font-family: 'Courier New', Courier, monospace;">
-  <!-- Stat Cards -->
-  <p>
-    <img alt="GitHub stats" src="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&custom_title=GitHub+Stats&show_icons=true&locale=en&hide_border=true&line_height=28&theme=custom_red"/>
-    <img alt="Top languages" src="https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=donut&hide_border=true&hide=html,css,cmake,jupyter%20notebook&card_width=279.9&langs_count=5&theme=custom_red"/>
-  </p>
-
+<div align="center">
+  <img src="https://github-readme-stats-theta-rosy-40.vercel.app/api?username=HarshPanchal01&custom_title=GitHub+Stats&show_icons=true&locale=en&hide_border=false&line_height=40&title_color=8d192b&text_color=862931&icon_color=B71F36&border_color=850F26&bg_color=efe6e6" alt="GitHub Stats" height="300" />
+  
+  <img src="https://github-readme-stats-theta-rosy-40.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&hide_border=false&hide=html,css,cmake,jupyter%20notebook&card_width=500&langs_count=5&title_color=8d192b&text_color=862931&icon_color=B71F36&border_color=850F26&bg_color=efe6e6" alt="Top Langs" height="300" />
 </div>
