@@ -1,4 +1,4 @@
-4th year cs student. <s>Vibe</s> Aura coding.
+4th year cs student. <s>Vibe</s> Aura coder.
 <div>
   <p>
     <picture>
