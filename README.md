@@ -1,4 +1,4 @@
-4th year cs student. <s>Vibe</s> Aura coder.
+4th year prompt engineering student. <s>Vibe</s> Aura coder.
 <div>
   <p>
     <picture>
