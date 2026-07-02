@@ -1,4 +1,4 @@
-4th year prompt engineering student. <s>Vibe</s> Aura coder.
+Professional Prompt Engineer. <s>Vibe</s> Aura coder.
 <div>
   <p>
     <picture>
